@@ -7,3 +7,12 @@
   --main-color: #0e1117;
   --main-font-color: white;
 }
+
+.article__studys {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0px;
+}
+
+.article__studys > .article__study--title {
+}
