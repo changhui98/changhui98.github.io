@@ -12,7 +12,6 @@
   display: flex;
   justify-content: space-around;
   margin: 20px 0px;
-}
-
-.article__studys > .article__study--title {
+  height: 40px;
+  align-items: center;
 }
