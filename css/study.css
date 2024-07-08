@@ -1,0 +1,4 @@
+.main__studys {
+  display: flex;
+  flex-direction: column;
+}

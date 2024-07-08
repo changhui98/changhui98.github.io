@@ -2,3 +2,12 @@
   background-color: var(--main-color);
   color: white;
 }
+
+.main__header--title > a {
+  border: none;
+  text-decoration: none;
+}
+
+.main__header--title > a:hover {
+  color: lightblue;
+}
