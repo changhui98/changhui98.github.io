@@ -1,4 +1,13 @@
+.main__study {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
 .main__studys {
   display: flex;
   flex-direction: column;
+  border-top: 1px dotted white;
+  border-bottom: 1px dotted white;
+  padding: 10px 0px;
 }
